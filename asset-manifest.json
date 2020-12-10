@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Recommender/static/css/main.0598955e.chunk.css",
+    "main.js": "/Recommender/static/js/main.5d7d658d.chunk.js",
+    "main.js.map": "/Recommender/static/js/main.5d7d658d.chunk.js.map",
+    "runtime-main.js": "/Recommender/static/js/runtime-main.02f08160.js",
+    "runtime-main.js.map": "/Recommender/static/js/runtime-main.02f08160.js.map",
+    "static/js/2.79513e29.chunk.js": "/Recommender/static/js/2.79513e29.chunk.js",
+    "static/js/2.79513e29.chunk.js.map": "/Recommender/static/js/2.79513e29.chunk.js.map",
+    "static/js/3.8d2e12a1.chunk.js": "/Recommender/static/js/3.8d2e12a1.chunk.js",
+    "static/js/3.8d2e12a1.chunk.js.map": "/Recommender/static/js/3.8d2e12a1.chunk.js.map",
+    "index.html": "/Recommender/index.html",
+    "static/css/main.0598955e.chunk.css.map": "/Recommender/static/css/main.0598955e.chunk.css.map",
+    "static/js/2.79513e29.chunk.js.LICENSE.txt": "/Recommender/static/js/2.79513e29.chunk.js.LICENSE.txt",
+    "static/media/SignWindow.css": "/Recommender/static/media/ProductSans.d1653840.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02f08160.js",
+    "static/js/2.79513e29.chunk.js",
+    "static/css/main.0598955e.chunk.css",
+    "static/js/main.5d7d658d.chunk.js"
+  ]
+}
