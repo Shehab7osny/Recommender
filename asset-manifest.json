@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Recommender/static/css/main.81c600c8.chunk.css",
-    "main.js": "/Recommender/static/js/main.b3987f32.chunk.js",
-    "main.js.map": "/Recommender/static/js/main.b3987f32.chunk.js.map",
-    "runtime-main.js": "/Recommender/static/js/runtime-main.02f08160.js",
-    "runtime-main.js.map": "/Recommender/static/js/runtime-main.02f08160.js.map",
-    "static/js/2.79513e29.chunk.js": "/Recommender/static/js/2.79513e29.chunk.js",
-    "static/js/2.79513e29.chunk.js.map": "/Recommender/static/js/2.79513e29.chunk.js.map",
-    "static/js/3.8d2e12a1.chunk.js": "/Recommender/static/js/3.8d2e12a1.chunk.js",
-    "static/js/3.8d2e12a1.chunk.js.map": "/Recommender/static/js/3.8d2e12a1.chunk.js.map",
+    "main.css": "/Recommender/static/css/main.55ccaf03.chunk.css",
+    "main.js": "/Recommender/static/js/main.fefecb56.chunk.js",
+    "main.js.map": "/Recommender/static/js/main.fefecb56.chunk.js.map",
+    "runtime-main.js": "/Recommender/static/js/runtime-main.e1c10ee5.js",
+    "runtime-main.js.map": "/Recommender/static/js/runtime-main.e1c10ee5.js.map",
+    "static/js/2.cd36325f.chunk.js": "/Recommender/static/js/2.cd36325f.chunk.js",
+    "static/js/2.cd36325f.chunk.js.map": "/Recommender/static/js/2.cd36325f.chunk.js.map",
+    "static/js/3.bff1b77f.chunk.js": "/Recommender/static/js/3.bff1b77f.chunk.js",
+    "static/js/3.bff1b77f.chunk.js.map": "/Recommender/static/js/3.bff1b77f.chunk.js.map",
     "index.html": "/Recommender/index.html",
-    "static/css/main.81c600c8.chunk.css.map": "/Recommender/static/css/main.81c600c8.chunk.css.map",
-    "static/js/2.79513e29.chunk.js.LICENSE.txt": "/Recommender/static/js/2.79513e29.chunk.js.LICENSE.txt",
+    "static/css/main.55ccaf03.chunk.css.map": "/Recommender/static/css/main.55ccaf03.chunk.css.map",
+    "static/js/2.cd36325f.chunk.js.LICENSE.txt": "/Recommender/static/js/2.cd36325f.chunk.js.LICENSE.txt",
     "static/media/SignWindow.css": "/Recommender/static/media/ProductSans.d1653840.ttf",
     "static/media/userIcon.ce3877bd.png": "/Recommender/static/media/userIcon.ce3877bd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.02f08160.js",
-    "static/js/2.79513e29.chunk.js",
-    "static/css/main.81c600c8.chunk.css",
-    "static/js/main.b3987f32.chunk.js"
+    "static/js/runtime-main.e1c10ee5.js",
+    "static/js/2.cd36325f.chunk.js",
+    "static/css/main.55ccaf03.chunk.css",
+    "static/js/main.fefecb56.chunk.js"
   ]
 }
